@@ -1,4 +1,4 @@
-# Script-To-Downalod-All-Lambda-from-AWS
+# Script-To-Download-All-Lambda-from-AWS
 AWS
 
 Step 1: Install AWS CLI <br>
